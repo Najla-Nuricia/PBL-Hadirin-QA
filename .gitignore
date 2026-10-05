@@ -1,0 +1,23 @@
+# Node / WebdriverIO
+node_modules/
+.npm/
+.vite/
+.wdio/
+coverage/
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Appium / local runtime caches
+.appium/
+.android-sdk/
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.swp
